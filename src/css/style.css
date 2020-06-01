@@ -1,0 +1,60 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+li a.nav-link{
+  color: red;
+}
+
+.quem-somos{
+  background-color: rgb(204, 83, 52);
+  color: rgb(243, 226, 226);
+}
+
+.margin{
+  padding: 5%;
+}
+
+.parceiros{
+  background-color: rgb(192, 138, 21);
+}
+
+.hr{
+  color:white;
+}
+
+h4{
+  color: white;
+}
+
+.title-parceiro{
+  color:white;
+}
+
+.title-servico{
+  color:white;
+}
+
+.servicos{
+  background-color: rgb(180, 169, 6);
+}
+
+p{
+  color:white;
+}
+
+.title-quem-somos{
+  padding-top: 80px;
+}
+
+footer{
+  background-color: rgba(60, 144, 212, 0.719);
+  padding: 1.2%;
+}
+
+footer p{
+  padding-top: 15px;
+}
